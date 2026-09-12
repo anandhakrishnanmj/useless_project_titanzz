@@ -36,11 +36,9 @@ file:///d%3A/ak/useless%20project/useless_project_titanzz/project_4.html
 For Software:
 
 # Screenshots 
-![home screen]:(Screenshot 2026-09-12 035441.png)
+![home screen](home-screen.png)
 
-
-![Game phase]:(Screenshot 2026-09-12 035504.png)
-
+![Game phase](game-phase.png)
 
 
 
