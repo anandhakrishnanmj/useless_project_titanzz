@@ -2,39 +2,33 @@
 
 
 
-# [Project Name] 🎯
+# [ABSOLUTE FOCUS] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Titanzz]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
-
+-- Member 1: Anandhakrishnan - ICCS College of Engineering and Management
+- Member 2: Eljo Shajan - ICCS College of Engineering and Management
 ### Project Description
-[2-3 lines about what your project does]
+[Sisyphus.io — Absolute Focus is a single-file HTML/CSS/JS game where players repeatedly press a button to build combo streaks and clear stages, but each stage carries a rising failure probability that punishes pushing too far. It tracks combos, failures, and best scores, with sound, vibration, and particle effects layered on a dark cyberpunk UI, all running client-side with no backend.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[If you want it dressed up for a submission, something like: "Modern attention spans collapse under repetitive tasks — this project artificially induces stress and reward cycles to study/gamify sustained focus under escalating uncertainty.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[The failure chance quietly ramps up the closer you get to clearing a stage — so the game feels fair right until it isn't, forcing you to actually think ("do I push again or do I bail with my combo intact?") instead of mindlessly mashing. Add haptic buzzes, sound cues, and little particle explosions every time you press, and you've basically built a slot machine disguised as a focus exercise — except instead of losing money, you just lose your streak and your dignity.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [HTML5, CSS3, JavaScript (vanilla, ES6+)]
+- [None — no frontend framework, no build tools]
+- [None — no external dependencies (audio, vibration, and animations are handled with native Web Audio API, Vibration API, and CSS/JS only]
+- [Browser DevTools (for testing/debugging), Git & GitHub (version control and submission)]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
@@ -48,52 +42,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![home screen]:(Screenshot 2026-09-12 035441.png)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Game phase]:(Screenshot 2026-09-12 035504.png)
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
----
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
