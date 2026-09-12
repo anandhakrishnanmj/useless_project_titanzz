@@ -2,7 +2,7 @@
 
 
 
-# [ABSOLUTE FOCUS] 🎯
+# ABSOLUTE FOCUS 🎯
 
 
 ## Basic Details
