@@ -6,7 +6,7 @@
 
 
 ## Basic Details
-### Team Name: [Titanzz]
+### Team Name: Titanzz
 
 
 ### Team Members
@@ -29,19 +29,13 @@ For Software:
 - [None — no external dependencies (audio, vibration, and animations are handled with native Web Audio API, Vibration API, and CSS/JS only]
 - [Browser DevTools (for testing/debugging), Git & GitHub (version control and submission)]
 
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
 # Run
-[commands]
+file:///d%3A/ak/useless%20project/useless_project_titanzz/project_4.html
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 ![home screen]:(Screenshot 2026-09-12 035441.png)
 
 
